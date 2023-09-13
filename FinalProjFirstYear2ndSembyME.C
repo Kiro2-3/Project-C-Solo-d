@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+
+//I own this code (penamante)
 int menu, choices1, age, contact, choosetemp, tempwhile;
 int asusA17=95995,asusA15=56995,huaweiD15=24999,asus14=22395,asus15vbook=40995,rogstrixscar1=204995,LenovoYogaDuet7=71995,LenovoLegion7i=274995;
 int AcerAspire3=38999,SamsungChromebook4=13995,ASUSTUFDASHF15=64995,AsusROGStrixG152022=166995,LenovoLegion5=99995,ASUSZENBOOKPRODUO=199999;
